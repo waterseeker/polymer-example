@@ -16,7 +16,10 @@
     "polymer": "Polymer/polymer#^2.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
     "iron-ajax": "PolymerElements/iron-ajax#^3.0.1",
-    "paper-button": "PolymerElements/paper-button#^3.0.1"
+    "paper-button": "PolymerElements/paper-button#^3.0.1",
+    "iron-input": "PolymerElements/iron-input#^3.0.1",
+    "paper-input": "PolymerElements/paper-input#^3.2.0",
+    "iron-localstorage": "PolymerElements/iron-localstorage#^3.0.1"
   },
   "resolutions": {
     "polymer": "^2.0.0"
